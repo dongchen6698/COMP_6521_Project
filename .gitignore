@@ -1,0 +1,10 @@
+
+*.xml
+
+*.iml
+
+*.class
+
+test_dir/*
+
+temporary*/*
